@@ -1,0 +1,8 @@
+C:\Users\dawns\source\repos\PARProject\PARProject\obj\Debug\net6.0\PARProject.csproj.AssemblyReference.cache
+C:\Users\dawns\source\repos\PARProject\PARProject\obj\Debug\net6.0\PARProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawns\source\repos\PARProject\PARProject\obj\Debug\net6.0\PARProject.AssemblyInfoInputs.cache
+C:\Users\dawns\source\repos\PARProject\PARProject\obj\Debug\net6.0\PARProject.AssemblyInfo.cs
+C:\Users\dawns\source\repos\PARProject\PARProject\obj\Debug\net6.0\PARProject.csproj.CoreCompileInputs.cache
+C:\Users\dawns\source\repos\PARProject\PARProject\obj\Debug\net6.0\PARProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dawns\source\repos\PARProject\PARProject\obj\Debug\net6.0\PARProject.RazorAssemblyInfo.cache
+C:\Users\dawns\source\repos\PARProject\PARProject\obj\Debug\net6.0\PARProject.RazorAssemblyInfo.cs
