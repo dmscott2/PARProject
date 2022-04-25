@@ -27,10 +27,10 @@ namespace PARProject
             services.AddRazorPages();
 
             services.AddDbContext<PARDbContext>(options =>
-	            options.UseSqlite(Configuration.GetConnectionString("StudentHelperDbContext")));
+	            options.UseSqlite(Configuration.GetConnectionString("PARDbContext")));
             
             services.AddDbContext<PARDbContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("RazorPagesStudentHelperDbContext")));
+                    options.UseSqlServer(Configuration.GetConnectionString("RazorPagesPARDbContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
