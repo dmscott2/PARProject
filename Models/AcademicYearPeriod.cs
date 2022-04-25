@@ -1,6 +1,13 @@
-namespace domain.Models;
+using System;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
-public enum Semester
+namespace PARProject.Models;
+
+public enum Name
+{
+    
+} Semester
 {
     FALL,
     SPRING,

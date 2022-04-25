@@ -1,6 +1,8 @@
 using System;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
-namespace domain.Models
+namespace PARProject.Models
 {
     public class User{
         public int UserID{get; set;}

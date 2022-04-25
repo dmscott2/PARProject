@@ -1,5 +1,5 @@
 using System;
-namespace domain.Models
+namespace PARProject.Models
 {
     public class Measure{
         public int MeasureID{get; set;}

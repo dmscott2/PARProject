@@ -10,7 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using PARProject.Models;
 
-namespace FinalProject
+namespace PARProject
 {
     public class Startup
     {

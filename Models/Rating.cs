@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Collections.Generic;
 
-namespace domain.Models{
+namespace PARProject.Models{
     public class Rating{
         public int RatingID{get; set;} // primary key
         public double RatingName{get; set;}
