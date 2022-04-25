@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using Microsoft.Extensions.DependencyInjection;
-using PARProject.Models;
 
 namespace PARProject.Models
 {
@@ -12,10 +11,10 @@ namespace PARProject.Models
 			: base(options)
 		{
 		}
-		public DbSet<AcademicYearPeriod> AcademicYearPeriods {get; set;}
+        public DbSet<AcademicYearPeriod> AcademicYearPeriods {get; set;}
         public DbSet<Assessment> Assessments {get; set; }
         public DbSet<Course> Courses {get; set; }
-        public DbSet <CourseCoordinator> CourseCoordinators {get; set; }
+        public DbSet<CourseCoordinator> CourseCoordinators {get; set; }
         public DbSet <CourseLearningOutcome> CourseLearningOutcomes {get; set; }
         public DbSet <Instructor> Instructors {get; set; }
         public DbSet <Measure> Measures {get; set; }
@@ -26,5 +25,4 @@ namespace PARProject.Models
         public DbSet <StudentOutcome> StudentOutcomes {get; set; }
         public DbSet <User> Users {get; set; }
 	}
-}
 }

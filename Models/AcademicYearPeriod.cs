@@ -4,13 +4,10 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PARProject.Models;
 
-public enum Name
+public class Semester
 {
-    
-} Semester
-{
-    FALL,
-    SPRING,
+    public string SemesterName {get; set; }
+
 }
 
 public class AcademicYearPeriod
