@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dawns\\source\\repos\\PARProject\\PARProject\\PARProject.csproj": {}
+    "c:\\Users\\dawns\\source\\repos\\PARProject\\PARProject\\PARProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dawns\\source\\repos\\PARProject\\PARProject\\PARProject.csproj": {
+    "c:\\Users\\dawns\\source\\repos\\PARProject\\PARProject\\PARProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dawns\\source\\repos\\PARProject\\PARProject\\PARProject.csproj",
+        "projectUniqueName": "c:\\Users\\dawns\\source\\repos\\PARProject\\PARProject\\PARProject.csproj",
         "projectName": "PARProject",
-        "projectPath": "C:\\Users\\dawns\\source\\repos\\PARProject\\PARProject\\PARProject.csproj",
+        "projectPath": "c:\\Users\\dawns\\source\\repos\\PARProject\\PARProject\\PARProject.csproj",
         "packagesPath": "C:\\Users\\dawns\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dawns\\source\\repos\\PARProject\\PARProject\\obj\\",
+        "outputPath": "c:\\Users\\dawns\\source\\repos\\PARProject\\PARProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dawns\\AppData\\Roaming\\NuGet\\NuGet.Config"
